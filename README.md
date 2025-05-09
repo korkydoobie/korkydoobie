@@ -3,19 +3,14 @@
 <br />
 <div align="center">
  
-  <h1 align="center"> TURD DEV </h1>
+  <h1 align="center"> KISE </h1>
   </a>
 
-
-  <p align="center">
-   that guy
-    <br />
-    </p> </div>
 
 <details>
   <summary>WHO AM I?</summary>
 
-  ### <a id="about-the-project"></a>LUTHER DEAN
+  ### <a id="about-the-project"></a>KIRK GRIFFIN
   - 👋 Hi, I’m @korkydoobie
   - **Name:** Kirk Griffin Tan
   - **Born in:** Philippines  
