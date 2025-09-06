@@ -14,14 +14,14 @@
   - 👋 Hi, I’m @korkydoobie
   - **Name:** Kirk Griffin Tan
   - **Born in:** Philippines  
-  - **Educational Status:** 2nd Year Student at FEU Institute of Technology  
+  - **Educational Status:** 3nd Year Student at FEU Institute of Technology  
   - **Specialization:** Information Technology - Web and Mobile Application
   
 </details>
 
-  - 🌱 I’m currently learning PHP, Kotlin, Git
+  - 🌱 I’m currently learning PHP, Git, CodeIgniter 4
   
-  - Has experience in C++, Java, Javascript, SQL & PL/SQL, Python
+  - Has experience in C++, Java, Javascript, SQL & PL/SQL, Python, Kotlin
 
 <br> <!-- This creates spacing between sections -->
 
