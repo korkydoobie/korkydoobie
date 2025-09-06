@@ -14,7 +14,7 @@
   - 👋 Hi, I’m @korkydoobie
   - **Name:** Kirk Griffin Tan
   - **Born in:** Philippines  
-  - **Educational Status:** 3nd Year Student at FEU Institute of Technology  
+  - **Educational Status:** 3rd Year Student at FEU Institute of Technology  
   - **Specialization:** Information Technology - Web and Mobile Application
   
 </details>
